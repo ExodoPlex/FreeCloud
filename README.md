@@ -1,4 +1,4 @@
-# opencloud
+# freecloud
 Open source, user friendly, self-hosted cloud solution
 
 The idea is to replace the Synology DSM with a completely open source solution. 
